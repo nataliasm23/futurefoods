@@ -14,5 +14,5 @@ plotly==5.7.0
 protobuf==3.20.1
 pyOpenSSL==22.0.0
 streamlit==1.8.1
-wincertstore==0.2.1
+wincertstore==0.2
 xmlrpclib==1.0.1
