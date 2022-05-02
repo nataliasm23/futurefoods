@@ -2,14 +2,14 @@ brotli==1.0.9
 ConfigParser==5.2.0
 cryptography==37.0.1
 Cython==0.29.28
-dl==0.1.0
+dl==0.1.
 HTMLParser==0.0.2
 ipaddr==2.2.0
 keyring==23.5.0
 lxml==4.8.0
-numpy==1.22.3
+numpy==1.17.3
 ordereddict==1.1
-pandas==1.4.2
+pandas==0.25.3
 plotly==5.7.0
 protobuf==3.20.1
 pyOpenSSL==22.0.0
