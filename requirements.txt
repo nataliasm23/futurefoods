@@ -13,5 +13,5 @@ pandas==1.4.2
 plotly==5.7.0
 protobuf==3.20.1
 pyOpenSSL==22.0.0
-streamlit==1.8.1
+streamlit==0.82.0
 
