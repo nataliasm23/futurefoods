@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ff_streamlit_app_dash.py
+web: sh setup.sh && streamlit run --server.port $PORT ff_streamlit_app_dash.py
