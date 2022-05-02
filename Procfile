@@ -1,0 +1,1 @@
+web:: sh setup.sh && streamlit run ff_streamlit_app_dash.py
